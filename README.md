@@ -1,5 +1,5 @@
 # car
-	:battery: :blue_car: :battery: 
+:battery: :blue_car: :battery: 
 While owning an electric car everyone always asks if I really save money. And I never know the answer to that, I always say yes. So hopefully this will show if I actually save money.
 
 The price per kwh is what I took from my electric bill
