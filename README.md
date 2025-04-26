@@ -10,5 +10,9 @@ The average gas price and the average mpg is a result from google.
 This has become more of a project than I had originally planned
 
 - [x] add a map
-- [ ] use api to add charging stations
+- [x] use api to add charging stations
 - [ ] i don't know yet. want to add more.
+- [ ] on going, keep updating the information.
+- [ ] charge away from home.
+
+## so far the findings show that I do save more, just by charging at home. I also get $7.50 taken off my electic bill monthly from the electric company to charge my car in non-peak periods. 
